@@ -12,6 +12,9 @@ How to execute or run:
 Note:
 Owner username: rest
       password: rest123
+      
+ GUI-Pages:
+ 
 ![image](https://user-images.githubusercontent.com/94459156/223160107-1c773c04-200b-4763-8932-8f0a2bb1d541.png)
 
 ![image](https://user-images.githubusercontent.com/94459156/223159788-aab45497-b523-438d-abf3-cfda1c2e41fb.png)
