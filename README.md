@@ -13,11 +13,11 @@ How to execute or run:
        javac -d . InvoicePrint.java
        javac RestaurantMS.java
        java RestaurantMS
-       
+      
 Note:
 
-Owner username: rest
-      password: rest123
+    Owner username: rest
+    Owner password: rest123
       
  GUI-Pages:
  
